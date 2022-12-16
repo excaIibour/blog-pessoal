@@ -1,0 +1,155 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+#root {
+    background-image: radial-gradient(circle at 100% 0%, #bf4a90 0, #b13e8e 16.67%, #9f2e88 33.33%, #891981 50%, #72007a 66.67%, #5d0075 83.33%, #470073 100%);
+    width: 98,5vw;
+    height: 70vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.curriculo {
+    width: 800px;
+    height: 550px;
+    background: #efefef;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+.informacoes {
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.perfil {
+    display: flex;
+}
+
+.perfil .nome h1 {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-bottom: 0;
+    color: #bf4a90;
+}
+
+.perfil .nome p {
+    font-size: 15px;
+    margin-left: 25px;
+    margin-top: 0;
+}
+
+.perfil img {
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+
+.demais-informacoes .informacoes-pessoais h2 {
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.demais-informacoes .informacoes-pessoais h3 {
+    margin-left: 20px;
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #bf4a90;
+}
+
+.demais-informacoes .informacoes-pessoais p {
+    margin-left: 20px;
+    margin-top: 0;
+    font-size: 15px;
+}
+
+.demais-informacoes {
+    display: flex;
+}
+
+.demais-informacoes .informacoes-profissionais {
+    margin-left: 50px;
+}
+
+.demais-informacoes .informacoes-profissionais h2 {
+    font-size: 15px;
+}
+
+.demais-informacoes .informacoes-profissionais h3 {
+    font-size: 15px;
+    color: #bf4a90;
+    margin-bottom: 0;
+}
+
+.demais-informacoes .informacoes-profissionais .empresa p {
+    font-size: 13px;
+    margin-left: 20px;
+    margin-top: 0;
+}
+
+.contacts {
+    margin-left: 10px;
+}
+
+.contacts a {
+    color: #5b5b5b;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.contacts a {
+    background: linear-gradient(to right, #9f2e88, #9f2e88 50%, #bf4a90 50%);
+}
+
+.contacts a {
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% 100%;
+    background-position: 100%;
+}
+
+.contacts a {
+    transition: background-position 275ms ease;
+}
+
+.contacts  a:hover {
+    background-position: 0 100%;
+}
+
+.carrossel {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.carrossel p, a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.carrossel img {
+    width: 50px;
+    margin: 0;
+    text-align: center;
+    padding: 0 20px 0 25px;
+}
+
+.carrossel figure {
+    width: 100px;
+    height: 30px;
+    background: #D9D9D9;
+    border-radius: 5px;
+}
+
