@@ -11,7 +11,7 @@ import Contact from "./routes/contact";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/cv-web",
     element: <Root />,
     errorElement: <ErrorPage />,
     children: [
