@@ -9,7 +9,7 @@ export default function Root() {
             <div className="informacoes">
               <div className="row">
               <div className="perfil">
-              <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEK7dHO6TZoAw/profile-displayphoto-shrink_400_400/0/1659358317695?e=1676505600&v=beta&t=DYbYZX7Y7eXn5ZRU8h-HpLMOeoYSs_4gmv7Hqdh55lM"></img>
+              <img src="https://media.licdn.com/dms/image/D4D03AQHPFPbbLzNSug/profile-displayphoto-shrink_200_200/0/1672088958436?e=1677715200&v=beta&t=YYJtBwtcfsGTmFgoEUrv9hwGoONPW_vA1Z3flVobHEA"></img>
               <section className="nome">
               <h1>Joseane de Oliveira</h1>
               <p><strong>Desenvolvedora de Software</strong></p>
@@ -51,7 +51,7 @@ export default function Root() {
                         </li>
                     </h3>
                     <p>Sequor Industrial Software | 03/2022 - atualmente </p>
-                    <p>Auxilio na documentação de produtos novos da empresa, como Manual do Usuário (focado no usuário final) e Manual do Desenvolvedor para novos colaboradores desenvolvedores. Aplicação dos conhecimentos em Desenvolvimento WEB Frontend com as linguagens de marcação e estilização HTML5, CSS3 e programação com JavaScript (focado na biblioteca ReactJS). Introdução ao Banco de Dados SQL Server, à linguagem C# para o Backend e à cloud Azure.</p>
+                    <p>Elaboração de documentação de produtos novos da empresa, como Manual do Usuário (focado no usuário final) e Manual do Desenvolvedor para novos colaboradores desenvolvedores utilizando Content Management System (CMS). Aplicação dos conhecimentos em Desenvolvimento WEB Frontend com as linguagens de marcação e estilização HTML5, CSS3 e programação com JavaScript (focado na biblioteca ReactJS) na criação de demais tecnologias dentro dos softwares da empresa. Introdução ao Banco de Dados SQL Server, à linguagem C# para o Backend e à cloud Azure. Manuseio do framework Cypress para testes Frontend. Utilização do Figma para a criação e reprodução de novas telas.</p>
                     <h2>Cursos de aperfeiçoamento</h2>
                     </div>
                   <section className="carrossel">
